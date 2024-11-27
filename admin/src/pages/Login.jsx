@@ -53,7 +53,7 @@ const Login = () => {
 
             <div className='w-full'>
                 <p>Email</p>
-                <input placeholder='admin@gmail.com' onChange={(e)=>setEmail(e.target.value)} value={email} className='border border-[#DADADA] rounded w-full p-2 mt-1' type="email" required />
+                <input placeholder='admin@prescripto.com' onChange={(e)=>setEmail(e.target.value)} value={email} className='border border-[#DADADA] rounded w-full p-2 mt-1' type="email" required />
             </div>
 
             <div className='w-full'>
