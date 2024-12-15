@@ -13,10 +13,10 @@ const About = () => {
       <div className='my-10 flex flex-col md:flex-row gap-12'>
         <img className='w-full md:max-w-[360px]' src={assets.about_image} alt="" />
         <div className='flex flex-col justify-center gap-6 md:w-2/4 text-sm text-gray-600'>
-          <p >Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facilis, id repellendus. Veniam laudantium asperiores deserunt quis enim. Deserunt enim, veniam eaque consectetur reiciendis a fugiat temporibus molestias totam atque maiores?</p>
-          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae ab eveniet libero, consequuntur animi dolores natus incidunt cumque vitae harum dolorum odit sunt quis tenetur quae quas maiores ipsa mollitia.</p>
+          <p >The Doctor Booking Appointment page allows users to search for and book appointments with healthcare professionals based on specialties like General Physician, Dermatologist, etc. It features filters to help narrow down options, displays detailed doctor profiles, and lets users choose available time slots.</p>
+          <p> Once a doctor is selected, users can confirm their appointment by entering necessary details and receiving a confirmation message. The About Us page, on the other hand, introduces the platform, explaining its mission, values, and the team behind it. It builds trust by highlighting the platform's goals, core services, achievements, and user testimonials. Both pages are designed to ensure users can easily find the information they need and book an appointment with confidence, while also understanding the platform's purpose and credibility.</p>
           <b className='text-gray-800'>Our Vision</b>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, nesciunt quaerat magnam ullam quia eius officiis sit neque alias dolores nobis saepe inventore esse libero id nemo perspiciatis accusamus similique.</p>
+          <p>Vision is to provide patients hassle free booking and appointment services and help them in find the respectice doctors as per their convenience.</p>
         </div>
       </div>
 
